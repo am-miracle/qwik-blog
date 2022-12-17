@@ -20,7 +20,7 @@ export default component$(() => {
             <Link href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
               About
             </Link>
-            <Link href="/qwik" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+            <Link href="/what-is-qwik" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
               Markdown
             </Link>
           </div>
